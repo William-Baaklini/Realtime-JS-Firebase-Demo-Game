@@ -98,7 +98,7 @@ button:active {
 .Character_sprite {
   overflow: hidden;
   top: -3px;
-  background: url(/images/characters.png);
+  background: url(./images/characters.png);
 }
 .Character[data-direction="right"] .Character_sprite {
   background-position-x: 16px;
